@@ -1,17 +1,18 @@
-## Descripción
-Web Pixar copycat
-Esta es una web creada con html, css usando metodología BEM y javascript para el menú
+## Description
+Pixar Web copycat
+This is a web created with html and css using SUIT CSS methodology.
 
-## Autor
+## Auhtor
 Mónica Añez Hernández
 
 [Linkedin] https://www.linkedin.com/in/monicaanez/
 
-## Ver ejemplo en vivo
-[EnlaceWebPixar](https://monianez.github.io/Web-pixar/)
+## See live web
+https://monianez.github.io/Web-pixar/
 
-## Instalación
-Este proyecto no necesita instalación. Simplemente abre la carpeta o haz doble click en el .html
+## Instalation
+This project does not require installation. Just open the folder or double-click on the .html file
 
-## Contacto
-Me puedes escribir a monianez@gmail.com
+## Contact
+You can write me at monianez@gmail.com
+
